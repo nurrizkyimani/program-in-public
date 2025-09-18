@@ -1,0 +1,21 @@
+# Designing for Longevity 
+
+I was participating in an exchange program at the University of Pennsylvania in the fall of 2021 when I joined University Innovation Fellows. At that time, I was able to participate in an exchange with 39 students from Indonesia, and I was required to meet the top students in Indonesia. At that time, the Stanford Center for Longevity held a competition called the Longevity Design Challenge, which focused on the creation of products with an impact on longevity in the contexts of environment and physical space. During that time, I assembled teams composed of five students with backgrounds in biomedical engineering, business, finance, and computer science. The members of this team complement one another and are prepared to design an effective product for Design Challenges.
+
+During development, we came up with the concept for a product called "Leafin".  LeafIn is an Indonesian aeroponic gardening assistant with mobile-based features that is also integrated with an IoT planting kit. The inspiration comes from the failed crops that Nurrizky's mother encountered while urban farming. Leafin comprises two major components: an IoT-based gardening kit and a cloud-based mobile application that assist the user in maintaining their garden and successfully harvesting organic vegetables. 
+
+The development of Leafin is extremely enjoyable, not only because each team competes with its own skill, but also because I learn how to implement design thinking for building products. Throughout the process, I was able to utilize design thinking for both the product's development and its storytelling. I employ different phases of design thinking during development. Design Thinking's empathize, define, and ideate steps assisted me in generating the concept for Leafin. During brainstorming, we were able to design "Leafin'' with a feature that will encourage the user to become more involved in gardening. The design thinking process provided us with a comprehensive understanding of the product and a coherent story line, which ultimately led to our selection as the sole representative of Indonesia of 8 teams based  among 124 submissions from around the world as a finalist in the Stanford Center of Longevity Design Challenges.
+
+At the finals, we continue the design thinking process by developing the prototype and conducting the actual testing. We are able to create a mobile application based on web development and an Arduino kit prototype. We were able to develop a minimally viable product for both hardware and software. Finally, we tested ourselves and attempted to incorporate user testing into the product's development. The development itself enabled us to submit our final proposal with the product's actual implementation. We did not win the challenges, but I learned a great deal from the opportunity to develop a product from a design thinking perspective.
+
+In the Silicon Valley meetup, I had the opportunity to participate in one of the Extreme Design workshops, and to my astonishment, it turns out that the product they use as an example has similar problems to those we are solving: climate change and the environment. During the same time, I discovered that their development process was comparable to mine during the creation of "Leafin." I began to understand how I implemented Extreme Design during the competition, which sparked my interest in Design Thinking. The opportunity provided by Silicon Valley Meetup prompted me to visit the Stanford Center of Longevity and speak with its researchers. The visit gave me a new perspective on Stanford's unimaginable vision for the future and how design thinking can become an impactful tool, particularly in healthcare.
+
+<img width="1419" height="796" alt="SS_GOOD" src="https://github.com/user-attachments/assets/211c0ebe-a001-4a56-8035-99d9d39e01a3" />
+<img width="1379" height="730" alt="Screen Shot 2022-08-13 at 17 27 03" src="https://github.com/user-attachments/assets/240054de-fcab-443e-acfe-ac41b1744011" />
+<img width="1269" height="674" alt="Screen Shot 2022-08-13 at 17 26 33" src="https://github.com/user-attachments/assets/285ef930-3813-4254-8e7a-ee6f0a9d149d" />
+<img width="891" height="420" alt="Screen Shot 2022-08-13 at 17 23 10" src="https://github.com/user-attachments/assets/410bb6c2-2462-4da0-90f7-ec3a2cdfe58e" />
+
+
+
+Y2022/M8/D13
+
